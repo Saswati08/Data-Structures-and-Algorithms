@@ -33,7 +33,7 @@ for m in range(t):
             
             #if j - c[i - 1] >= 0:
                 # print(i, j)
-                arr[i][j] = arr[i - 1][j] + arr[i][j - c[i - 1]]
+                #arr[i][j] = arr[i - 1][j] + arr[i][j - c[i - 1]]
             #else:
                 #arr[i][j] = arr[i - 1][j]
     # print(arr)
